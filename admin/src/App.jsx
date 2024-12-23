@@ -1,7 +1,7 @@
 // eslint-disable-next-line no-unused-vars
 import React from "react";
 import Navbar from "./components/Navbar/Navbar";
-import Sidebar from "./components/sidebar/sidebar";
+import Sidebar from './components/Sidebar'
 import { Route, Routes } from "react-router-dom";
 import Add from "./pages/Add/Add";
 import List from "./pages/List/List";
